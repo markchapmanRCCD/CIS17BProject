@@ -8,5 +8,7 @@ int main(int argc, char **argv)
  QPushButton button ("Hello world !");
  button.show();
 
+ //comment test
+
  return app.exec();
 }
